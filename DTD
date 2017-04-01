@@ -1,0 +1,89 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT logindustriperhotelan (resepsionis,customerservice,direktur,satpam,
+                                 masyarakat)>
+<!ATTLIST logindustriperhotelan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT resepsionis (nama,papanpengenal,nip,alamat,jk,agama,pekerjaan,tl,
+                       kewarganegaraan,tahunkerja)>
+<!ATTLIST resepsionis
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT customerservice (nama,alamat,nohp,jk,agama,pekerjaan,tl,email,
+                           tahunkerja,jabatan)>
+<!ATTLIST customerservice
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT direktur (nama,alamat,nohp,jk,agama,pekerjaan,tl,email,hobi,jabatan)>
+<!ATTLIST direktur
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT satpam (nama,alamat,nohp,jk,agama,pekerjaan,tl,email,hobi,jabatan)>
+<!ATTLIST satpam
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT masyarakat (nama,alamat,nohp,jk,agama,pekerjaan,tl,email,hobi,nis)>
+<!ATTLIST masyarakat
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT papanpengenal (#PCDATA)>
+<!ATTLIST papanpengenal
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nip (#PCDATA)>
+<!ATTLIST nip
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kewarganegaraan (#PCDATA)>
+<!ATTLIST kewarganegaraan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nis (#PCDATA)>
+<!ATTLIST nis
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nama (#PCDATA)>
+<!ATTLIST nama
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT alamat (#PCDATA)>
+<!ATTLIST alamat
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT jk (#PCDATA)>
+<!ATTLIST jk
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT agama (#PCDATA)>
+<!ATTLIST agama
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT pekerjaan (#PCDATA)>
+<!ATTLIST pekerjaan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tl (#PCDATA)>
+<!ATTLIST tl
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tahunkerja (#PCDATA)>
+<!ATTLIST tahunkerja
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nohp (#PCDATA)>
+<!ATTLIST nohp
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT jabatan (#PCDATA)>
+<!ATTLIST jabatan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT hobi (#PCDATA)>
+<!ATTLIST hobi
+    xmlns CDATA #FIXED ''>
+

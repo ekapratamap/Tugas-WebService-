@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE logindustriperhotelan SYSTEM "logindustriperhotelan.dtd">
+<logindustriperhotelan>
+	<resepsionis>
+		<nama>Hibal</nama>
+		<papanpengenal>Nama Resepsionis</papanpengenal>
+		<nip>1154023</nip>
+		<alamat>bandung</alamat>
+		<jk>perempuan</jk>
+		<agama>islam</agama>
+		<pekerjaan>resepsionis hotel</pekerjaan>
+		<tl>bandung</tl>
+		<kewarganegaraan>Indonesia</kewarganegaraan>
+		<tahunkerja>2015</tahunkerja>
+	</resepsionis>
+	
+	<customerservice>
+		<nama>Lisamanda</nama>
+		<alamat>bandung</alamat>
+		<nohp>082316316842</nohp>
+		<jk>perempuan</jk>
+		<agama>islam</agama>
+		<pekerjaan>customer service hotel</pekerjaan>
+		<tl>bandung</tl>
+		<email>Lisaamanda@gmail.com</email>
+		<tahunkerja>2012</tahunkerja>
+		<jabatan>Kepala Bagian Customer Service</jabatan>
+	</customerservice>
+	
+	<direktur>
+		<nama>Eka Pratama Putra</nama>
+		<alamat>bandung</alamat>
+		<nohp>085237384625</nohp>
+		<jk>laki-laki</jk>
+		<agama>islam</agama>
+		<pekerjaan>Direktur Hotel</pekerjaan>
+		<tl>bandung</tl>
+		<email>ekapratamaputra05@gmail.com</email>
+		<hobi>nulis,dengar musik, dan nonton</hobi>
+		<jabatan>Direktur</jabatan>
+	</direktur>
+	
+	<satpam>
+		<nama>Alam</nama>
+		<alamat>bandung</alamat>
+		<nohp>082314315234</nohp>
+		<jk>laki-laki</jk>
+		<agama>islam</agama>
+		<pekerjaan>satpam</pekerjaan>
+		<tl>bandung</tl>
+		<email>alamsetiabudi@gmail.com</email>
+		<hobi>olahraga</hobi>
+		<jabatan>satpam</jabatan>
+	</satpam>
+	
+	<masyarakat>
+		<nama>Fahmi</nama>
+		<alamat>bandung</alamat>
+		<nohp>082785635225</nohp>
+		<jk>laki-laki</jk>
+		<agama>islam</agama>
+		<pekerjaan>mahasiswa</pekerjaan>
+		<tl>bandung</tl>
+		<email>fahmiafna@gmail.com</email>
+		<hobi>futsal</hobi>
+		<nis>3345623</nis>
+	</masyarakat>
+</logindustriperhotelan>
